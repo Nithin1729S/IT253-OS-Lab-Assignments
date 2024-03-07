@@ -1,0 +1,9 @@
+# Ignore the directory named "Past Yr"
+Past Yr/
+
+# Ignore files with the extension .out
+*.out
+
+# Ignore files with the extension .slog
+*.slog
+
